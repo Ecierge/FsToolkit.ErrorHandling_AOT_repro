@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "IcedTasksAOT",
+  "display": "standalone",
+  "name": "IcedTasksAOT",
+  "short_name": "IcedTasksAOT",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
